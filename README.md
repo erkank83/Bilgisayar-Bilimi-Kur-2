@@ -1,1 +1,1 @@
-# Bilgisayar-Bilimi-Kur-2
+<img src="resim.jpg" alt="Örnek Resim"/>
